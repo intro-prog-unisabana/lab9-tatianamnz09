@@ -1,2 +1,2 @@
-# Write your class definition here!
-
+class Material:
+    def__init__(self,nombre,costo,_)
