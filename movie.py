@@ -13,9 +13,9 @@ class Movie:
 # FREEZE CODE BEGIN
 if __name__ == "__main__":
     # --- Main Program ---
-    title = input("Enter the title:\n ")
-    director = input("Enter the director:\n ")
-    year = input("Enter the year:\n ")
+    title = input("Enter title:\n ")
+    director = input("Enter director:\n ")
+    year = int(input("Enter year:\n "))
 # FREEZE CODE END
     
     
